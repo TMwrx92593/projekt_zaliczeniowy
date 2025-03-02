@@ -1,2 +1,2 @@
-print('pierwsza linijka')
-print('kolejna linijka')
+print('projekt zaliczeniowy')
+print('linijka druga')
